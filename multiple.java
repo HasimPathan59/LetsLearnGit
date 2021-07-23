@@ -1,1 +1,1 @@
-welcome to git ! its easy to learn
+welcome to github
